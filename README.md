@@ -1,5 +1,9 @@
 # order-mangement
 Order Management System
+pre requisite of this application:
+We must have Java 8 , Spring-Boot , Hibenrnate and Maven.
+
+
 
 Download the zip folder.
 Import this project as maven project in STS.
