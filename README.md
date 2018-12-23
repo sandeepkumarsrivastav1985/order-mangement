@@ -2,6 +2,7 @@
 Order Management System
 pre requisite of this application:
 We must have Java 8 , Spring-Boot , Hibenrnate and Maven.
+Used Swagger for REST documentation http://localhost:8080/swagger-ui.html#/
 
 
 
